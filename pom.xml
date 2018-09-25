@@ -10,6 +10,7 @@
 
     <modules>
         <module>dummy-demo</module>
+        <module>mongo-demo</module>
     </modules>
 
 </project>
