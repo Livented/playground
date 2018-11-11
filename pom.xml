@@ -11,6 +11,7 @@
     <modules>
         <module>dummy-demo</module>
         <module>mongo-demo</module>
+        <module>junit-demo</module>
     </modules>
 
 </project>
